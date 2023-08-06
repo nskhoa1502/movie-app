@@ -13,6 +13,9 @@ app.use(
   cors({
     origin: process.env.CLIENT_URL,
     optionsSuccessStatus: 200,
+    methods: ["POST", "GET", "PUT", "DELETE"],
+    secure: true,
+    sameSite: "none",
   })
 );
 
