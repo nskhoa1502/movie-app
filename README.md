@@ -22,4 +22,3 @@ Be sure to explore our live demo of the Movie App at:
 
 Please note that the initial server bootup may require up to a minute for initialization. This brief waiting period is essential to guarantee optimal performance as we utilize a meticulously configured free server.
 
-Thank you for choosing our Movie App. We look forward to providing you with an unparalleled cinematic journey.
