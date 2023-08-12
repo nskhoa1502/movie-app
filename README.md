@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Welcome to our state-of-the-art movie display website, where your favorite movies come to life. Our platform offers an array of compelling features designed to enhance your movie browsing experience:
+Welcome to our movie display website written in ReactJS and NodeJS. Our platform offers some features designed to enhance your movie browsing experience:
 
 1. **Efficient Movie Search:** Seamlessly search for your preferred movies using our intuitive search function.
 2. **Engaging Trailers:** Immerse yourself in the world of cinema with our seamless trailer playback feature.
@@ -11,8 +11,8 @@ Welcome to our state-of-the-art movie display website, where your favorite movie
 
 Our platform is built upon cutting-edge technologies to ensure a seamless and dynamic user experience:
 
-- **React:** Powering our interactive and user-friendly front-end.
-- **Node.js:** Driving the backend processes and ensuring efficient server operations.
+- **React:**
+- **Node.js:**
 
 ## Live Demo
 
